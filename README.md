@@ -1,2 +1,2 @@
-# Topic-Sentiment-Pytorch
-Implement a topic sentiment method with Pytorch
+# Aspect-Sentiment
+Implement an aspect sentiment analysis tool with 
